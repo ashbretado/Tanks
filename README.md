@@ -1,5 +1,5 @@
-### Tankers! - Multiplayer Game Project <br>
-<b>Norwalk High School</b> :school: - <b>Project Lead The Way (PLTW) Computer Science</b><br>
+### Tankers! - Multiplayer Game Project :video_game::trophy:<br> 
+<b>Norwalk High School</b> :school: - <b>Project Lead The Way (PLTW) Computer Science :computer: </b><br> 
 <b>Class:</b> Computer Science Applications (CSA) - 2nd Year (Junior)<br>
 <b>Example screenshots of my changes on "Tanks".</b><br><br>
 <b>Tankers! Start Screen</b>&nbsp;&nbsp;<br><br>
